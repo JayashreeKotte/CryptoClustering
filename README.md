@@ -70,9 +70,9 @@ To run this script:
 5. Be sure to run the entire script using *Restart & Run All option* from *Kernel* in *Jupyter Notebook* to get error free results
 6. Or, you could alternatively run each block of code individually starting from the very top 
 
-![Elbow Curve](images/Elbow_curve.png)
+![Elbow Curve](Images/Elbow_curve.png)
 
-![Scatter Plots](images/Scatter_plot.png)
+![Scatter Plots](Images/Scatter_plot.png)
 
 ---
 ## Credits
